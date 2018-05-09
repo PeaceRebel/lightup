@@ -1,4 +1,4 @@
-#Lightup
+# Lightup
 An xbacklight replacement 
 
 ## Introduction
